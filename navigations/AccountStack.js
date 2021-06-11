@@ -2,7 +2,7 @@ import React from 'react'
 
 import {createStackNavigator} from '@react-navigation/stack'
 
-import Accounts from '../screens/Account'
+import Accounts from '../screens/account/Account'
 
 const Stack = createStackNavigator()
 
